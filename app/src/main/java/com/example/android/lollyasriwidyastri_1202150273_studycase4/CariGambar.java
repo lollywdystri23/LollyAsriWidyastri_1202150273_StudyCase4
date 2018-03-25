@@ -54,9 +54,6 @@ public class CariGambar extends AppCompatActivity {
             // Membuat Progress Dialog
             mProgressDialog = new ProgressDialog(CariGambar.this);
 
-           // Judul Progress Dialog
-            //mProgressDialog.setTitle("Downloading image");
-
             // Seting message Progress Dialog
             mProgressDialog.setMessage("Loading...");
 
